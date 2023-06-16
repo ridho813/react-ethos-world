@@ -36,7 +36,6 @@ const menuData = [
         to: "/Memo",
         newTab: false,
       },
-
   ];
   export default menuData;
   
