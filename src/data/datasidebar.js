@@ -49,6 +49,13 @@ const sidebarMenu = [
         icon:"nav-icon fas fa",
         newTab: false,
       },
+      {
+        id: 7,
+        title: "User",
+        to: "/user",
+        icon:"nav-icon fas fa-user",
+        newTab: false,
+      },
     //   {
     //     id: 7,
     //     title: "Setting",

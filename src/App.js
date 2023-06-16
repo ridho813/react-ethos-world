@@ -1,6 +1,7 @@
 
 import Header from './components/Header';
 
+import user from './user/index';
 import buatMemo from './buatMemo/index';
 import pesan from './pesan/index';
 import memo from './Memo/index';
@@ -34,6 +35,7 @@ function App() {
           <Route  path="/memo" Component={memo} />
           <Route  path="/pesan" Component={pesan} />
           <Route  path="/buatMemo" Component={buatMemo} />
+          <Route  path="/user" Component={user} />
          
        </Routes>
        <Sidebar/>
