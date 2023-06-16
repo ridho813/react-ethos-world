@@ -1,5 +1,7 @@
 import React from "react";
 import DataMemo from "./DataMemo";
+import { NavLink, Link } from "react-router-dom";
+
 const index = () => {
   return (
     <>
@@ -20,9 +22,9 @@ const index = () => {
         <section className="content">
           <div className="row">
             <div className="col-md-3">
-              <a href="compose.html" className="btn btn-primary btn-block mb-3">
+              <Link to="/buatMemo" className="btn btn-primary btn-block mb-3">
                 Buat Memo
-              </a>
+              </Link>
               <div className="card">
                 <div className="card-header-green p-1">
                   {/* <i className="fas fa-inbox" /> Pengajuan */}

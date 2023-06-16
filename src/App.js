@@ -1,6 +1,8 @@
 
 import Header from './components/Header';
 
+import buatMemo from './buatMemo/index';
+import pesan from './pesan/index';
 import memo from './Memo/index';
 import ide from './Ide/index';
 import project from './project/index'
@@ -30,6 +32,8 @@ function App() {
           <Route  path="/aktifitas" Component={aktifitas} />
           <Route  path="/meeting" Component={meeting} />
           <Route  path="/memo" Component={memo} />
+          <Route  path="/pesan" Component={pesan} />
+          <Route  path="/buatMemo" Component={buatMemo} />
          
        </Routes>
        <Sidebar/>
