@@ -1,0 +1,277 @@
+{
+  "Charts1": [
+    {
+      "y": 100000000,
+      "x": "1 Feb"
+    },
+    {
+      "y": 150000000,
+      "x": "2 Feb"
+    },
+    {
+      "y": 200000000,
+      "x": "3 Feb"
+    },
+    {
+      "y": 250000000,
+      "x": "4 Feb"
+    },
+    {
+      "y": 300000000,
+      "x": "5 Feb"
+    },
+    {
+      "y": 350000000,
+      "x": "6 Feb"
+    },
+    {
+      "y": 400000000,
+      "x": "7 Feb"
+    },
+    {
+      "y": 450000000,
+      "x": "8 Feb"
+    },
+    {
+      "y": 500000000,
+      "x": "9 Feb"
+    },
+    {
+      "y": 550000000,
+      "x": "10 Feb"
+    }
+  ],
+  "Chart2": [
+    {
+      "Internal": [
+        {
+          "y": 1000,
+          "x": "1 Feb"
+        },
+        {
+          "y": 1500,
+          "x": "2 Feb"
+        },
+        {
+          "y": 2000,
+          "x": "3 Feb"
+        },
+        {
+          "y": 2500,
+          "x": "4 Feb"
+        },
+        {
+          "y": 3000,
+          "x": "5 Feb"
+        },
+        {
+          "y": 3500,
+          "x": "6 Feb"
+        },
+        {
+          "y": 4000,
+          "x": "7 Feb"
+        },
+        {
+          "y": 4500,
+          "x": "8 Feb"
+        },
+        {
+          "y": 5000,
+          "x": "9 Feb"
+        },
+        {
+          "y": 5500,
+          "x": "10 Feb"
+        }
+      ],
+      "Partner": [
+        {
+          "y": 1000,
+          "x": "1 Feb"
+        },
+        {
+          "y": 1500,
+          "x": "2 Feb"
+        },
+        {
+          "y": 2000,
+          "x": "3 Feb"
+        },
+        {
+          "y": 2500,
+          "x": "4 Feb"
+        },
+        {
+          "y": 3000,
+          "x": "5 Feb"
+        },
+        {
+          "y": 3500,
+          "x": "6 Feb"
+        },
+        {
+          "y": 4000,
+          "x": "7 Feb"
+        },
+        {
+          "y": 4500,
+          "x": "8 Feb"
+        },
+        {
+          "y": 5000,
+          "x": "9 Feb"
+        },
+        {
+          "y": 5500,
+          "x": "10 Feb"
+        }
+      ]
+    }
+  ],
+  "DataMemo": [
+    {
+      "id": 1,
+      "nama": "Yusrizal",
+      "subjek": "Pertanyaan tentang kesehatan",
+      "isipesan": "Hallo, Selamat Siang. apakah Hari Ini Anda Sehat?...",
+      "time": "5 Menit",
+      "status": "1",
+      "newTab": false
+    },
+    {
+      "id": 2,
+      "nama": "Ridho",
+      "subjek": "Tanya kabar",
+      "isipesan": "Hallo Gaisss, Selamat Malam. Sudah Makan...",
+      "time": "15 Menit",
+      "status": "2",
+      "newTab": false
+    },
+    {
+      "id": 3,
+      "nama": "Firman",
+      "subjek": "Pemberitahuan penting",
+      "isipesan": "Hallo, Selamat Anda Mendapatkan....",
+      "time": "1 Menit",
+      "status": "3",
+      "newTab": false
+    },
+    {
+      "id": 4,
+      "nama": "Edward",
+      "subjek": "Uji coba",
+      "isipesan": "Testing",
+      "time": "4 Menit",
+      "status": "4",
+      "newTab": false
+    },
+    {
+      "id": 5,
+      "nama": "Muniro",
+      "subjek": "Tes subjek",
+      "isipesan": "tes..",
+      "time": "2 Menit",
+      "status": "3",
+      "newTab": false
+    }
+  ],
+  "dataProject": [
+    {
+      "id": 1,
+      "Nama Project": "Project A",
+      "Tim Member": {
+        "linkPic1": "dist/img/user2-160x160.jpg",
+        "linkPic2": "linkGambar2",
+        "linkPic3": "linkGambar3"
+      },
+      "Proges": 90,
+      "Status": "Revisi",
+      "Deadline": "2023-06-30"
+    },
+    {
+      "id": 2,
+      "Nama Project": "Project B",
+      "Tim Member": {
+        "linkPic1": "dist/img/user2-160x160.jpg",
+        "linkPic2": "linkGambar5",
+        "linkPic3": "linkGambar6"
+      },
+      "Proges": 100,
+      "Status": "Revisi",
+      "Deadline": "2023-07-15"
+    },
+    {
+      "id": 3,
+      "Nama Project": "Project C",
+      "Tim Member": {
+        "linkPic1": "dist/img/user2-160x160.jpg",
+        "linkPic2": "linkGambar8",
+        "linkPic3": "linkGambar9"
+      },
+      "Proges": 50,
+      "Status": "Dikerjakan",
+      "Deadline": "2023-08-01"
+    },
+    {
+      "id": 4,
+      "Nama Project": "Project D",
+      "Tim Member": {
+        "linkPic1": "dist/img/user2-160x160.jpg",
+        "linkPic2": "linkGambar18",
+        "linkPic3": "linkGambar19"
+      },
+      "Proges": 70,
+      "Status": "Ditugaskan",
+      "Deadline": "2023-08-01"
+    },
+    {
+      "Nama Project": "Project Z",
+      "Tim Member": {
+        "linkPic1": "dist/img/user2-160x160.jpg",
+        "linkPic2": "linkGambar2",
+        "linkPic3": "linkGambar3"
+      },
+      "Proges": 90,
+      "Status": "Revisi",
+      "Deadline": "2023-06-30",
+      "id": 5
+    },
+    {
+      "Nama Project": "contoh",
+      "Tim Member": {
+        "linkPic1": "dist/img/user2-160x160.jpg",
+        "linkPic2": "linkGambar18",
+        "linkPic3": "linkGambar19"
+      },
+      "Proges": 70,
+      "Status": "Ditugaskan",
+      "Deadline": "2023-08-01",
+      "id": 6
+    },
+    {
+      "Nama Project": "cek",
+      "Tim Member": {
+        "linkPic1": "dist/img/user2-160x160.jpg",
+        "linkPic2": "linkGambar18",
+        "linkPic3": "linkGambar19"
+      },
+      "Proges": 70,
+      "Status": "Ditugaskan",
+      "Deadline": "2023-08-01",
+      "id": 7
+    },
+    {
+      "Nama Project": "contoh",
+      "Tim Member": {
+        "linkPic1": "dist/img/user2-160x160.jpg",
+        "linkPic2": "linkGambar18",
+        "linkPic3": "linkGambar19"
+      },
+      "Proges": 70,
+      "Status": "Ditugaskan",
+      "Deadline": "2023-08-01",
+      "id": 8
+    }
+  ]
+}
